@@ -3,7 +3,7 @@ entries:
   activepieces:
   - apiVersion: v2
     appVersion: 0.71.2
-    created: "2026-02-20T17:56:00.50797385+01:00"
+    created: "2026-02-20T19:39:23.681599803+01:00"
     dependencies:
     - condition: kubernetes-secret-generator.enabled
       name: kubernetes-secret-generator
@@ -18,11 +18,11 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 17.4.2
     description: A Helm chart for Activepieces
-    digest: 7f018e3e323bf8538263673d20bc95bbc4534aff7c3a2ef694912c5a84c22aec
+    digest: 61ba5ae4277e9a0ef05f679a226180514e20c7af841de7852d11213bcc1b6ec1
     icon: https://cdn.activepieces.com/brand/logo.svg
     name: activepieces
     type: application
     urls:
     - https://genseb13011.github.io/activepieces-helm-chart/packages/activepieces-0.3.0.tgz
     version: 0.3.0
-generated: "2026-02-20T17:56:00.493703924+01:00"
+generated: "2026-02-20T19:39:23.673949276+01:00"
